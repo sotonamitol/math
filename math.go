@@ -11,4 +11,5 @@ func f(n int) int {
 
 func main() {
 	fmt.Println(f(10))
+	fmt.Println(f(5))
 }
