@@ -9,7 +9,7 @@ func TestF(t *testing.T) {
 	if f(5) != 120 {
 		t.Errorf("err")
 	}
-	if f(6) != 720 {
+	if f(6) != 721 {
 		t.Errorf("err")
 	}
 }
